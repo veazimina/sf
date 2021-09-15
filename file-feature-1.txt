@@ -1,0 +1,7 @@
+Impact analysis evaluates the changes that were made for a maintenance release to identify the intended
+consequences as well as expected and possible side effects of a change, and to identify the areas in the
+system that will be affected by the change. Impact analysis can also help to identify the impact of a
+change on existing tests. The side effects and affected areas in the system need to be tested for
+regressions, possibly after updating any existing tests affected by the change.
+Impact analysis may be done before a change is made, to help decide if the change should be made,
+based on the potential consequences in other areas of the system
